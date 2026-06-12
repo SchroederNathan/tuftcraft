@@ -2,6 +2,8 @@
 
 A Minecraft clone that runs entirely in the browser — no build step, no dependencies to install, just vanilla JavaScript and Three.js.
 
+> 🤖 Generated with [Claude Code](https://claude.com/claude-code), powered by Claude Fable 5.
+
 ![TuftCraft screenshot](docs/screenshot.png)
 
 ## Features
